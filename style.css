@@ -126,7 +126,7 @@ main article .close:hover {
 
 .content .line {
     width: 1px;
-    height: 50px;
+    
     background: white;
     margin: auto;
 }
